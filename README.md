@@ -1,7 +1,6 @@
 ## Olá, sou Giovanna Esteves
 
 - 🖊️ Hoje, estudo na Universidade de Pernambuco
-- 🙂 Pronomes: ela/dela
 
 ## 🔍 Áreas de Interesse:
 - Machine Learning
@@ -19,10 +18,6 @@
 - **Bancos de Dados:** MySQL, OracleSQL, SQL Server, Apache Cassandra
 - **Ferramentas de Visualização:** Tableau, Power BI
 - **Versionamento de Código:** Git, GitHub
-
-## 📈 Estatísticas do GitHub
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=GiooEsteves&show_icons=true&theme=radical)
 
 ## 🌐 Conecte-se Comigo
  
