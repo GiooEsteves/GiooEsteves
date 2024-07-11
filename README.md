@@ -1,20 +1,30 @@
 ## Olá, sou Giovanna Esteves
 
 - 🖊️ Hoje, estudo na Universidade de Pernambuco
-- 📘 Estudando Python
 - 🙂 Pronomes: ela/dela
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-</div>
+## 🔍 Áreas de Interesse:
+- Machine Learning
+- Deep Learning
+- Análise Exploratória de Dados (EDA)
+- Visualização de Dados
+- Processamento de Linguagem Natural (NLP)
+- Big Data
 
-  ##
+## 🛠️ Habilidades Técnicas
+
+- **Linguagens de Programação:** Python, R, SQL
+- **Bibliotecas e Frameworks:** Pandas, NumPy, Scikit-Learn, TensorFlow, Keras, PyTorch, Matplotlib, Seaborn
+- **Ferramentas de Big Data:** Apache Spark, Hadoop
+- **Bancos de Dados:** MySQL, OracleSQL, SQL Server, Apache Cassandra
+- **Ferramentas de Visualização:** Tableau, Power BI
+- **Versionamento de Código:** Git, GitHub
+
+## 📈 Estatísticas do GitHub
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=GiooEsteves&show_icons=true&theme=radical)
+
+## 🌐 Conecte-se Comigo
  
 <div> 
   <a href = "mailto:gioesteves00@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
