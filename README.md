@@ -7,7 +7,6 @@
 - Deep Learning
 - Análise Exploratória de Dados (EDA)
 - Visualização de Dados
-- Processamento de Linguagem Natural (NLP)
 - Big Data
 
 ## 🛠️ Habilidades Técnicas
