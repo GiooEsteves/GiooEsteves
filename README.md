@@ -4,7 +4,6 @@
 
 ## 🔍 Áreas de Interesse:
 - Machine Learning
-- Deep Learning
 - Análise Exploratória de Dados (EDA)
 - Visualização de Dados
 - Big Data
