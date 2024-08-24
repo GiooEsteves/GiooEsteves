@@ -12,11 +12,11 @@
 
 ## 🛠️ Habilidades Técnicas
 
-- **Linguagens de Programação:** Python, R, SQL
+- **Linguagens de Programação:** Python, SQL
 - **Bibliotecas e Frameworks:** Pandas, NumPy, Scikit-Learn, TensorFlow, Keras, PyTorch, Matplotlib, Seaborn
 - **Ferramentas de Big Data:** Apache Spark, Hadoop
 - **Bancos de Dados:** MySQL, OracleSQL, SQL Server, Apache Cassandra
-- **Ferramentas de Visualização:** Tableau, Power BI
+- **Ferramentas de Visualização:** Power BI
 - **Versionamento de Código:** Git, GitHub
 
 ## 🌐 Conecte-se Comigo
