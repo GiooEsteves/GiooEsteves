@@ -3,19 +3,19 @@
 - 🖊️ Hoje, estudo na Universidade de Pernambuco
 
 ## 🔍 Áreas de Interesse:
-- Machine Learning
-- Análise Exploratória de Dados (EDA)
-- Visualização de Dados
-- Big Data
-
+- Desenvolviento BackEnd
+- Arquitetura de Microsserviços
+- Integração de APIs
+- Gerenciamento de Banco de Dados
+  
 ## 🛠️ Habilidades Técnicas
 
-- **Linguagens de Programação:** Python, SQL
-- **Bibliotecas e Frameworks:** Pandas, NumPy, Scikit-Learn, TensorFlow, Keras, PyTorch, Matplotlib, Seaborn
-- **Ferramentas de Big Data:** Apache Spark, Hadoop
+- **Linguagens de Programação:** JAVA
+- **Frameworks e Tecnologias:** Spring Boot, Spring MVC, Spring Data, Spring Security
+- **Ferramentas:** Maven, Docker, Kubernetes, Postman
 - **Bancos de Dados:** MySQL, OracleSQL, SQL Server, Apache Cassandra
-- **Ferramentas de Visualização:** Power BI
 - **Versionamento de Código:** Git, GitHub
+- **Outras Habilidades:** Integração contínua (CI/CD), testes unitários com JUnit
 
 ## 🌐 Conecte-se Comigo
  
