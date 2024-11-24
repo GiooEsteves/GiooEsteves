@@ -3,7 +3,7 @@
 - 🖊️ Hoje, estudo na Universidade de Pernambuco
 
 ## 🔍 Áreas de Interesse:
-- Desenvolviento BackEnd
+- Desenvolvimento BackEnd
 - Arquitetura de Microsserviços
 - Integração de APIs
 - Gerenciamento de Banco de Dados
